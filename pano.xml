@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="7.1.8" start="node1" apprev="20986" hassounds="0">
+  <panorama id="node1">
+    <input levelbiashidpi="1.000" levelingpitch="0" height="2625" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" levelingroll="0" width="2625" levelbias="0.400">
+      <level predecode="0" height="2625" preload="0" width="2625"/>
+      <level predecode="0" height="1312" preload="0" width="1312"/>
+      <level predecode="0" height="656" preload="0" width="656"/>
+      <level predecode="1" height="328" preload="1" width="328"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="206.45">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" pan="360" tilt="90" fov="140"/>
+    </view>
+    <userdata longitude="-51.92290002" datetime="" description="Tour Virtual " heading="206.45" nodeid="node1" copyright="MARCELO RIBEIRO   GUTIARA RI" streetviewlink="https://www.google.com/maps/@-23.4005943,-51.9229,3a,75y,90t/data=!3m4!1e1!3m2!1sAF1QipPLuN2la6dL0qsGldXbQ8t7qh-bFcqbFpQCLdsc!2e10" latitude="-23.40059434" tags="1" author="MGTOUR360GRAUS" customnodeid="" title="Amara Ateliê (antiga Eliana Noivas)" info="" comment="" source=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label bordercolor="0x000000" wordwrap="1" background="1" height="20" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" backgroundalpha="1" width="180" border="1" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1"/>
+      <hotspot skinid="ht_node" distance="8.22303" description="" url="{node2}" pan="368.024" tilt="0" title="Amara Ateliê (antiga Eliana Noivas)" target="$fwd" id="Point01"/>
+      <hotspot skinid="ht_node" distance="58.7955" description="" url="{node17}" pan="87.1109" tilt="0" title="Amara Ateliê (antiga Eliana Noivas)" target="$fwd" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" softedge="0" delay="none" enabled="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextvr="1" lockedwheel="0" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" lockedmouse="0" contextfullscreen="1" contextprojections="0" zoomcentercursor="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbiashidpi="1.000" levelingpitch="0" height="3535" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" levelingroll="0" width="3535" levelbias="0.400">
+      <level predecode="0" height="3535" preload="0" width="3535"/>
+      <level predecode="0" height="1767" preload="0" width="1767"/>
+      <level predecode="0" height="883" preload="0" width="883"/>
+      <level predecode="1" height="441" preload="1" width="441"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-162.453">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" pan="360" tilt="90" fov="140"/>
+    </view>
+    <userdata longitude="-51.92292549" datetime="" description="Tour Virtual " heading="-162.453" nodeid="node2" copyright="MARCELO RIBEIRO   GUTIARA RI" streetviewlink="https://www.google.com/maps/@-23.4006645,-51.9229255,3a,75y,197.55h,90t/data=!3m4!1e1!3m2!1sAF1QipMJekqZYG7EGPlR9oDQSTfB8ZSS1BlVq650C5Pd!2e10" latitude="-23.40066450" tags="1" author="MGTOUR360GRAUS" customnodeid="" title="Amara Ateliê (antiga Eliana Noivas)" info="" comment="" source=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label bordercolor="0x000000" wordwrap="1" background="1" height="20" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" backgroundalpha="1" width="180" border="1" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1"/>
+      <hotspot skinid="ht_node" distance="8.22303" description="" url="{node1}" pan="-180.879" tilt="0" title="Amara Ateliê (antiga Eliana Noivas)" target="$fwd" id="Point01"/>
+      <hotspot skinid="ht_node" distance="3.70032" description="" url="{node3}" pan="-1.89619" tilt="0" title="Amara Ateliê (antiga Eliana Noivas)" target="$fwd" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" softedge="0" delay="none" enabled="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextvr="1" lockedwheel="0" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" lockedmouse="0" contextfullscreen="1" contextprojections="0" zoomcentercursor="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbiashidpi="1.000" levelingpitch="0" height="2625" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" levelingroll="0" width="2625" levelbias="0.400">
+      <level predecode="0" height="2625" preload="0" width="2625"/>
+      <level predecode="0" height="1312" preload="0" width="1312"/>
+      <level predecode="0" height="656" preload="0" width="656"/>
+      <level predecode="1" height="328" preload="1" width="328"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-159.706">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" pan="360" tilt="90" fov="140"/>
+    </view>
+    <userdata longitude="-51.92293756" datetime="" description="Tour Virtual " heading="-159.706" nodeid="node3" copyright="MARCELO RIBEIRO   GUTIARA RI" streetviewlink="https://www.google.com/maps/@-23.4006959,-51.9229376,3a,75y,200.29h,90t/data=!3m4!1e1!3m2!1sAF1QipPBQ5I1j6vg6BsAEHiJcl8kF20XVdFS1P32PQU4!2e10" latitude="-23.40069588" tags="1" author="MGTOUR360GRAUS" customnodeid="" title="Amara Ateliê (antiga Eliana Noivas)" info="" comment="" source=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label bordercolor="0x000000" wordwrap="1" background="1" height="20" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" backgroundalpha="1" width="180" border="1" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1"/>
+      <hotspot skinid="ht_node" distance="3.70032" description="" url="{node2}" pan="-179.149" tilt="0" title="Amara Ateliê (antiga Eliana Noivas)" target="$fwd" id="Point01"/>
+      <hotspot skinid="ht_node" distance="2.52399" description="" url="{node4}" pan="-36.8642" tilt="0" title="Amara Ateliê (antiga Eliana Noivas)" target="$fwd" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" softedge="0" delay="none" enabled="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextvr="1" lockedwheel="0" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" lockedmouse="0" contextfullscreen="1" contextprojections="0" zoomcentercursor="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbiashidpi="1.000" levelingpitch="0" height="3000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" levelingroll="0" width="3000" levelbias="0.400">
+      <level predecode="0" height="3000" preload="0" width="3000"/>
+      <level predecode="0" height="1500" preload="0" width="1500"/>
+      <level predecode="0" height="750" preload="0" width="750"/>
+      <level predecode="1" height="375" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-161.818">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" pan="360" tilt="90" fov="140"/>
+    </view>
+    <userdata longitude="-51.92295834" datetime="" description="Tour Virtual " heading="-161.818" nodeid="node4" copyright="MARCELO RIBEIRO   GUTIARA RI" streetviewlink="https://www.google.com/maps/@-23.4007082,-51.9229583,3a,75y,205.56h,90t/data=!3m4!1e1!3m2!1sAF1QipPzQPKO7OaYAM9RVn86U1gSTuJeRYP0K0X3G8Q-!2e10" latitude="-23.40070819" tags="1" author="MGTOUR360GRAUS" customnodeid="" title="Amara Ateliê (antiga Eliana Noivas)" info="" comment="" source=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label bordercolor="0x000000" wordwrap="1" background="1" height="20" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" backgroundalpha="1" width="180" border="1" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1"/>
+      <hotspot skinid="ht_node" distance="2.52399" description="" url="{node3}" pan="-218.976" tilt="0" title="Amara Ateliê (antiga Eliana Noivas)" target="$fwd" id="Point01"/>
+      <hotspot skinid="ht_node" distance="3.02085" description="" url="{node5}" pan="5.08064" tilt="0" title="Amara Ateliê (antiga Eliana Noivas)" target="$fwd" id="Point02"/>
+      <hotspot skinid="ht_node" distance="3.22465" description="" url="{node12}" pan="-144.531" tilt="0" title="Amara Ateliê (antiga Eliana Noivas)" target="$fwd" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" softedge="0" delay="none" enabled="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextvr="1" lockedwheel="0" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" lockedmouse="0" contextfullscreen="1" contextprojections="0" zoomcentercursor="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbiashidpi="1.000" levelingpitch="0" height="2625" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" levelingroll="0" width="2625" levelbias="0.400">
+      <level predecode="0" height="2625" preload="0" width="2625"/>
+      <level predecode="0" height="1312" preload="0" width="1312"/>
+      <level predecode="0" height="656" preload="0" width="656"/>
+      <level predecode="1" height="328" preload="1" width="328"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-162.005">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" pan="360" tilt="90" fov="140"/>
+    </view>
+    <userdata longitude="-51.92296505" datetime="" description="Tour Virtual " heading="-162.005" nodeid="node5" copyright="MARCELO RIBEIRO   GUTIARA RI" streetviewlink="https://www.google.com/maps/@-23.4007347,-51.9229651,3a,75y,197.99h,90t/data=!3m4!1e1!3m2!1sAF1QipPld9p4DViqfrNidp8DIrbQAHR7uqy6wJAsWFPL!2e10" latitude="-23.40073465" tags="1" author="MGTOUR360GRAUS" customnodeid="" title="Amara Ateliê (antiga Eliana Noivas)" info="" comment="" source=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label bordercolor="0x000000" wordwrap="1" background="1" height="20" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" backgroundalpha="1" width="180" border="1" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1"/>
+      <hotspot skinid="ht_node" distance="3.02085" description="" url="{node4}" pan="-175.106" tilt="0" title="Amara Ateliê (antiga Eliana Noivas)" target="$fwd" id="Point01"/>
+      <hotspot skinid="ht_node" distance="3.96362" description="" url="{node6}" pan="-45.8726" tilt="0" title="Amara Ateliê (antiga Eliana Noivas)" target="$fwd" id="Point02"/>
+      <hotspot skinid="ht_node" distance="2.25096" description="" url="{node10}" pan="-322.486" tilt="0" title="Amara Ateliê (antiga Eliana Noivas)" target="$fwd" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" softedge="0" delay="none" enabled="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextvr="1" lockedwheel="0" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" lockedmouse="0" contextfullscreen="1" contextprojections="0" zoomcentercursor="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelbiashidpi="1.000" levelingpitch="0" height="2625" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" levelingroll="0" width="2625" levelbias="0.400">
+      <level predecode="0" height="2625" preload="0" width="2625"/>
+      <level predecode="0" height="1312" preload="0" width="1312"/>
+      <level predecode="0" height="656" preload="0" width="656"/>
+      <level predecode="1" height="328" preload="1" width="328"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-154.771">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" pan="360" tilt="90" fov="140"/>
+    </view>
+    <userdata longitude="-51.92299992" datetime="" description="Tour Virtual " heading="-154.771" nodeid="node6" copyright="MARCELO RIBEIRO   GUTIARA RI" streetviewlink="https://www.google.com/maps/@-23.4007503,-51.9229999,3a,75y,205.23h,90t/data=!3m4!1e1!3m2!1sAF1QipMNZ03YKSRqv8m63rN1FJJ8c4et_3fF1N324t-h!2e10" latitude="-23.40075035" tags="1" author="MGTOUR360GRAUS" customnodeid="" title="Amara Ateliê (antiga Eliana Noivas)" info="" comment="" source=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label bordercolor="0x000000" wordwrap="1" background="1" height="20" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" backgroundalpha="1" width="180" border="1" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1"/>
+      <hotspot skinid="ht_node" distance="3.96362" description="" url="{node5}" pan="-218.639" tilt="0" title="Amara Ateliê (antiga Eliana Noivas)" target="$fwd" id="Point01"/>
+      <hotspot skinid="ht_node" distance="8.27777" description="" url="{node7}" pan="5.67425" tilt="0" title="Amara Ateliê (antiga Eliana Noivas)" target="$fwd" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" softedge="0" delay="none" enabled="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextvr="1" lockedwheel="0" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" lockedmouse="0" contextfullscreen="1" contextprojections="0" zoomcentercursor="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelbiashidpi="1.000" levelingpitch="0" height="2625" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" levelingroll="0" width="2625" levelbias="0.400">
+      <level predecode="0" height="2625" preload="0" width="2625"/>
+      <level predecode="0" height="1312" preload="0" width="1312"/>
+      <level predecode="0" height="656" preload="0" width="656"/>
+      <level predecode="1" height="328" preload="1" width="328"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-158.101">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" pan="360" tilt="90" fov="140"/>
+    </view>
+    <userdata longitude="-51.92302707" datetime="" description="Tour Virtual " heading="-158.101" nodeid="node7" copyright="MARCELO RIBEIRO   GUTIARA RI" streetviewlink="https://www.google.com/maps/@-23.4008205,-51.9230271,3a,75y,201.9h,90t/data=!3m4!1e1!3m2!1sAF1QipNv0I21TRT5ujDy4W3smWrzlfXz1kef52nLwe8F!2e10" latitude="-23.40082050" tags="1" author="MGTOUR360GRAUS" customnodeid="" title="Amara Ateliê (antiga Eliana Noivas)" info="" comment="" source=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label bordercolor="0x000000" wordwrap="1" background="1" height="20" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" backgroundalpha="1" width="180" border="1" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1"/>
+      <hotspot skinid="ht_node" distance="8.27777" description="" url="{node6}" pan="-177.656" tilt="0" title="Amara Ateliê (antiga Eliana Noivas)" target="$fwd" id="Point01"/>
+      <hotspot skinid="ht_node" distance="4.13121" description="" url="{node8}" pan="-270.605" tilt="0" title="Amara Ateliê (antiga Eliana Noivas)" target="$fwd" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" softedge="0" delay="none" enabled="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextvr="1" lockedwheel="0" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" lockedmouse="0" contextfullscreen="1" contextprojections="0" zoomcentercursor="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelbiashidpi="1.000" levelingpitch="0" height="2625" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" levelingroll="0" width="2625" levelbias="0.400">
+      <level predecode="0" height="2625" preload="0" width="2625"/>
+      <level predecode="0" height="1312" preload="0" width="1312"/>
+      <level predecode="0" height="656" preload="0" width="656"/>
+      <level predecode="1" height="328" preload="1" width="328"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="38.5412">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" pan="360" tilt="90" fov="140"/>
+    </view>
+    <userdata longitude="-51.92298967" datetime="" description="Tour Virtual " heading="38.5412" nodeid="node8" copyright="MARCELO RIBEIRO   GUTIARA RI" streetviewlink="https://www.google.com/maps/@-23.4008347,-51.9229897,3a,75y,22.9h,90t/data=!3m4!1e1!3m2!1sAF1QipPn-c3yGcDoUykMXhHGCb3fVJ7qx9pDGEmDWrUZ!2e10" latitude="-23.40083472" tags="1" author="MGTOUR360GRAUS" customnodeid="" title="Amara Ateliê (antiga Eliana Noivas)" info="" comment="" source=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label bordercolor="0x000000" wordwrap="1" background="1" height="20" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" backgroundalpha="1" width="180" border="1" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1"/>
+      <hotspot skinid="ht_node" distance="4.13121" description="" url="{node7}" pan="106.037" tilt="0" title="Amara Ateliê (antiga Eliana Noivas)" target="$fwd" id="Point01"/>
+      <hotspot skinid="ht_node" distance="6.68994" description="" url="{node9}" pan="16.4825" tilt="0" title="Amara Ateliê (antiga Eliana Noivas)" target="$fwd" id="Point02"/>
+      <hotspot skinid="ht_node" distance="2.73128" description="" url="{node13}" pan="-169.94" tilt="-1.15" title="Amara Ateliê (antiga Eliana Noivas)" target="" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" softedge="0" delay="none" enabled="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextvr="1" lockedwheel="0" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" lockedmouse="0" contextfullscreen="1" contextprojections="0" zoomcentercursor="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelbiashidpi="1.000" levelingpitch="0" height="2625" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" levelingroll="0" width="2625" levelbias="0.400">
+      <level predecode="0" height="2625" preload="0" width="2625"/>
+      <level predecode="0" height="1312" preload="0" width="1312"/>
+      <level predecode="0" height="656" preload="0" width="656"/>
+      <level predecode="1" height="328" preload="1" width="328"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="24.9267">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" pan="360" tilt="90" fov="140"/>
+    </view>
+    <userdata longitude="-51.92296505" datetime="" description="Tour Virtual " heading="24.9267" nodeid="node9" copyright="MARCELO RIBEIRO   GUTIARA RI" streetviewlink="https://www.google.com/maps/@-23.400779,-51.9229651,3a,75y,24.93h,90t/data=!3m4!1e1!3m2!1sAF1QipMP3z4RwZhi_HrERCCZkAl5i81w-tjadSl-RAvg!2e10" latitude="-23.40077896" tags="1" author="MGTOUR360GRAUS" customnodeid="" title="Amara Ateliê (antiga Eliana Noivas)" info="" comment="" source=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label bordercolor="0x000000" wordwrap="1" background="1" height="20" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" backgroundalpha="1" width="180" border="1" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1"/>
+      <hotspot skinid="ht_node" distance="6.68994" description="" url="{node8}" pan="182.868" tilt="0" title="Amara Ateliê (antiga Eliana Noivas)" target="$fwd" id="Point01"/>
+      <hotspot skinid="ht_node" distance="2.90451" description="" url="{node10}" pan="9.91938" tilt="0" title="Amara Ateliê (antiga Eliana Noivas)" target="$fwd" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" softedge="0" delay="none" enabled="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextvr="1" lockedwheel="0" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" lockedmouse="0" contextfullscreen="1" contextprojections="0" zoomcentercursor="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelbiashidpi="1.000" levelingpitch="0" height="2625" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" levelingroll="0" width="2625" levelbias="0.400">
+      <level predecode="0" height="2625" preload="0" width="2625"/>
+      <level predecode="0" height="1312" preload="0" width="1312"/>
+      <level predecode="0" height="656" preload="0" width="656"/>
+      <level predecode="1" height="328" preload="1" width="328"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="21.9128">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" pan="360" tilt="90" fov="140"/>
+    </view>
+    <userdata longitude="-51.92295768" datetime="" description="Tour Virtual " heading="21.9128" nodeid="node10" copyright="MARCELO RIBEIRO   GUTIARA RI" streetviewlink="https://www.google.com/maps/@-23.4007537,-51.9229577,3a,75y,21.91h,90t/data=!3m4!1e1!3m2!1sAF1QipN4qtf-kNEjkqrGdWUllQsZbG3IAFuKa0PYm-iy!2e10" latitude="-23.40075373" tags="1" author="MGTOUR360GRAUS" customnodeid="" title="Amara Ateliê (antiga Eliana Noivas)" info="" comment="" source=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label bordercolor="0x000000" wordwrap="1" background="1" height="20" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" backgroundalpha="1" width="180" border="1" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1"/>
+      <hotspot skinid="ht_node" distance="2.25096" description="" url="{node5}" pan="41.4321" tilt="0" title="Amara Ateliê (antiga Eliana Noivas)" target="$fwd" id="Point01"/>
+      <hotspot skinid="ht_node" distance="2.90451" description="" url="{node9}" pan="186.905" tilt="0" title="Amara Ateliê (antiga Eliana Noivas)" target="$fwd" id="Point02"/>
+      <hotspot skinid="ht_node" distance="2.47993" description="" url="{node11}" pan="-17.5031" tilt="0" title="Amara Ateliê (antiga Eliana Noivas)" target="$fwd" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" softedge="0" delay="none" enabled="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextvr="1" lockedwheel="0" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" lockedmouse="0" contextfullscreen="1" contextprojections="0" zoomcentercursor="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelbiashidpi="1.000" levelingpitch="0" height="2625" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" levelingroll="0" width="2625" levelbias="0.400">
+      <level predecode="0" height="2625" preload="0" width="2625"/>
+      <level predecode="0" height="1312" preload="0" width="1312"/>
+      <level predecode="0" height="656" preload="0" width="656"/>
+      <level predecode="1" height="328" preload="1" width="328"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="16.1432">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" pan="360" tilt="90" fov="140"/>
+    </view>
+    <userdata longitude="-51.92294225" datetime="" description="Tour Virtual " heading="16.1432" nodeid="node11" copyright="MARCELO RIBEIRO   GUTIARA RI" streetviewlink="https://www.google.com/maps/@-23.4007365,-51.9229422,3a,75y,16.14h,90t/data=!3m4!1e1!3m2!1sAF1QipM-kJOA5jnrNwwyTkbPmwe_x2ok1by5RA4s9hBn!2e10" latitude="-23.40073650" tags="1" author="MGTOUR360GRAUS" customnodeid="" title="Amara Ateliê (antiga Eliana Noivas)" info="" comment="" source=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label bordercolor="0x000000" wordwrap="1" background="1" height="20" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" backgroundalpha="1" width="180" border="1" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1"/>
+      <hotspot skinid="ht_node" distance="2.47993" description="" url="{node10}" pan="156.727" tilt="0" title="Amara Ateliê (antiga Eliana Noivas)" target="$fwd" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" softedge="0" delay="none" enabled="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextvr="1" lockedwheel="0" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" lockedmouse="0" contextfullscreen="1" contextprojections="0" zoomcentercursor="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelbiashidpi="1.000" levelingpitch="0" height="2625" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" levelingroll="0" width="2625" levelbias="0.400">
+      <level predecode="0" height="2625" preload="0" width="2625"/>
+      <level predecode="0" height="1312" preload="0" width="1312"/>
+      <level predecode="0" height="656" preload="0" width="656"/>
+      <level predecode="1" height="328" preload="1" width="328"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="77.3619">
+      <start projection="4" pan="59.4718" tilt="0" fov="120"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" pan="360" tilt="90" fov="140"/>
+    </view>
+    <userdata longitude="-51.92296773" datetime="" description="Tour Virtual " heading="77.3619" nodeid="node12" copyright="MARCELO RIBEIRO   GUTIARA RI" streetviewlink="https://www.google.com/maps/@-23.4006805,-51.9229677,3a,75y,17.89h,90t/data=!3m4!1e1!3m2!1sAF1QipOfofSIVcRxKNEjNHw_R6Sn0gjF37ztNh-QDaEJ!2e10" latitude="-23.40068050" tags="1" author="MGTOUR360GRAUS" customnodeid="" title="Amara Ateliê (antiga Eliana Noivas)" info="" comment="" source=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label bordercolor="0x000000" wordwrap="1" background="1" height="20" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" backgroundalpha="1" width="180" border="1" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1"/>
+      <hotspot skinid="ht_node" distance="3.22465" description="" url="{node4}" pan="-85.3509" tilt="0" title="Amara Ateliê (antiga Eliana Noivas)" target="$fwd" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" softedge="0" delay="none" enabled="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextvr="1" lockedwheel="0" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" lockedmouse="0" contextfullscreen="1" contextprojections="0" zoomcentercursor="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelbiashidpi="1.000" levelingpitch="0" height="2625" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" levelingroll="0" width="2625" levelbias="0.400">
+      <level predecode="0" height="2625" preload="0" width="2625"/>
+      <level predecode="0" height="1312" preload="0" width="1312"/>
+      <level predecode="0" height="656" preload="0" width="656"/>
+      <level predecode="1" height="328" preload="1" width="328"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="18.7828">
+      <start projection="4" pan="3.40855" tilt="0" fov="110.933"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" pan="360" tilt="90" fov="140"/>
+    </view>
+    <userdata longitude="-51.92300461" datetime="" description="Tour Virtual " heading="18.7828" nodeid="node13" copyright="MARCELO RIBEIRO   GUTIARA RI" streetviewlink="https://www.google.com/maps/@-23.4008147,-51.9230046,3a,75y,15.37h,90t/data=!3m4!1e1!3m2!1sAF1QipOGWgPyZWtAZZAGpQBmxVL7YSG_3MSZ3zQkYQDJ!2e10" latitude="-23.40081434" tags="2" author="MGTOUR360GRAUS" customnodeid="" title="Amara Ateliê (antiga Eliana Noivas)" info="" comment="" source=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label bordercolor="0x000000" wordwrap="1" background="1" height="20" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" backgroundalpha="1" width="180" border="1" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1"/>
+      <hotspot skinid="ht_node" distance="4.58711" description="" url="{node14}" pan="67.3106" tilt="0" title="Amara Ateliê (antiga Eliana Noivas)" target="$fwd" id="Point02"/>
+      <hotspot skinid="ht_node" distance="5.81845" description="" url="{node15}" pan="-64.8093" tilt="0" title="Amara Ateliê (antiga Eliana Noivas)" target="$fwd" id="Point03"/>
+      <hotspot skinid="ht_node" distance="2.73128" description="" url="{node8}" pan="-154.77" tilt="-3.35" title="Amara Ateliê (antiga Eliana Noivas)" target="" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" softedge="0" delay="none" enabled="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextvr="1" lockedwheel="0" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" lockedmouse="0" contextfullscreen="1" contextprojections="0" zoomcentercursor="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelbiashidpi="1.000" levelingpitch="0" height="2625" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" levelingroll="0" width="2625" levelbias="0.400">
+      <level predecode="0" height="2625" preload="0" width="2625"/>
+      <level predecode="0" height="1312" preload="0" width="1312"/>
+      <level predecode="0" height="656" preload="0" width="656"/>
+      <level predecode="1" height="328" preload="1" width="328"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="3.43458" tilt="0" fov="140.418"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" pan="360" tilt="90" fov="140"/>
+    </view>
+    <userdata longitude="-51.92303829" datetime="" description="Tour Virtual " heading="0" nodeid="node14" copyright="MARCELO RIBEIRO   GUTIARA RI" streetviewlink="https://www.google.com/maps/@-23.4007941,-51.9230095,3a,75y,356.57h,90t/data=!3m4!1e1!3m2!1sAF1QipN_0peF6kXHpLjVfyZWO9p11nTB5IlpqPkW5jdE!2e10" latitude="-23.40078702" tags="2" author="MGTOUR360GRAUS" customnodeid="" title="Amara Ateliê (antiga Eliana Noivas)" info="" comment="" source=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label bordercolor="0x000000" wordwrap="1" background="1" height="20" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" backgroundalpha="1" width="180" border="1" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1"/>
+      <hotspot skinid="ht_node" distance="4.58711" description="" url="{node13}" pan="-131.472" tilt="0" title="Amara Ateliê (antiga Eliana Noivas)" target="$fwd" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" softedge="0" delay="none" enabled="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextvr="1" lockedwheel="0" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" lockedmouse="0" contextfullscreen="1" contextprojections="0" zoomcentercursor="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelbiashidpi="1.000" levelingpitch="0" height="2625" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" levelingroll="0" width="2625" levelbias="0.400">
+      <level predecode="0" height="2625" preload="0" width="2625"/>
+      <level predecode="0" height="1312" preload="0" width="1312"/>
+      <level predecode="0" height="656" preload="0" width="656"/>
+      <level predecode="1" height="328" preload="1" width="328"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-156.145">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" pan="360" tilt="90" fov="140"/>
+    </view>
+    <userdata longitude="-51.92294795" datetime="" description="Tour Virtual " heading="-156.145" nodeid="node15" copyright="MARCELO RIBEIRO   GUTIARA RI" streetviewlink="https://www.google.com/maps/@-23.4007968,-51.9229818,3a,75y,203.85h,90t/data=!3m4!1e1!3m2!1sAF1QipMa-ESJGbxsYmZwlRGVETZunwacFRjc_k34hSlK!2e10" latitude="-23.40080850" tags="2" author="MGTOUR360GRAUS" customnodeid="" title="Amara Ateliê (antiga Eliana Noivas)" info="" comment="" source=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label bordercolor="0x000000" wordwrap="1" background="1" height="20" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" backgroundalpha="1" width="180" border="1" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1"/>
+      <hotspot skinid="ht_node" distance="5.81845" description="" url="{node13}" pan="-59.737" tilt="0" title="Amara Ateliê (antiga Eliana Noivas)" target="$fwd" id="Point01"/>
+      <hotspot skinid="ht_node" distance="4.70895" description="" url="{node16}" pan="-103.764" tilt="0" title="Amara Ateliê (antiga Eliana Noivas)" target="$fwd" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" softedge="0" delay="none" enabled="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextvr="1" lockedwheel="0" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" lockedmouse="0" contextfullscreen="1" contextprojections="0" zoomcentercursor="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelbiashidpi="1.000" levelingpitch="0" height="2625" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" levelingroll="0" width="2625" levelbias="0.400">
+      <level predecode="0" height="2625" preload="0" width="2625"/>
+      <level predecode="0" height="1312" preload="0" width="1312"/>
+      <level predecode="0" height="656" preload="0" width="656"/>
+      <level predecode="1" height="328" preload="1" width="328"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-73.5174">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" pan="360" tilt="90" fov="140"/>
+    </view>
+    <userdata longitude="-51.92298450" datetime="" description="Tour Virtual " heading="-73.5174" nodeid="node16" copyright="MARCELO RIBEIRO   GUTIARA RI" streetviewlink="https://www.google.com/maps/@-23.4007827,-51.9229845,3a,75y,286.48h,90t/data=!3m4!1e1!3m2!1sAF1QipMC-fZ-6e5VtaNV1rSqyk8X9wvG0xoke05Q7qVs!2e10" latitude="-23.40078265" tags="2" author="MGTOUR360GRAUS" customnodeid="" title="Amara Ateliê (antiga Eliana Noivas)" info="" comment="" source=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label bordercolor="0x000000" wordwrap="1" background="1" height="20" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" backgroundalpha="1" width="180" border="1" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1"/>
+      <hotspot skinid="ht_node" distance="4.70895" description="" url="{node15}" pan="-201.137" tilt="0" title="Amara Ateliê (antiga Eliana Noivas)" target="$fwd" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" softedge="0" delay="none" enabled="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextvr="1" lockedwheel="0" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" lockedmouse="0" contextfullscreen="1" contextprojections="0" zoomcentercursor="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input levelbiashidpi="1.000" levelingpitch="0" height="2625" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" levelingroll="0" width="2625" levelbias="0.400">
+      <level predecode="0" height="2625" preload="0" width="2625"/>
+      <level predecode="0" height="1312" preload="0" width="1312"/>
+      <level predecode="0" height="656" preload="0" width="656"/>
+      <level predecode="1" height="328" preload="1" width="328"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="155.607">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" pan="360" tilt="90" fov="140"/>
+    </view>
+    <userdata longitude="-51.92239777" datetime="" description="Tour Virtual " heading="155.607" nodeid="node17" copyright="MARCELO RIBEIRO   GUTIARA RI" streetviewlink="https://www.google.com/maps/@-23.4008534,-51.9223978,3a,75y,155.61h,90t/data=!3m4!1e1!3m2!1sAF1QipPuLFPcG4dOb08ATIIl91nh9VzE2tEHczz6iiO2!2e10" latitude="-23.40085342" tags="est" author="MGTOUR360GRAUS" customnodeid="" title="Amara Ateliê (antiga Eliana Noivas)" info="" comment="" source=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label bordercolor="0x000000" wordwrap="1" background="1" height="20" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" backgroundalpha="1" width="180" border="1" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1"/>
+      <hotspot skinid="ht_node" distance="58.7955" description="" url="{node1}" pan="216.268" tilt="0" title="Amara Ateliê (antiga Eliana Noivas)" target="$fwd" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" softedge="0" delay="none" enabled="1" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextvr="1" lockedwheel="0" dblclickfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" lockedmouse="0" contextfullscreen="1" contextprojections="0" zoomcentercursor="1" hideabout="0"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" author="" title="" description="" copyright="" comment=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
